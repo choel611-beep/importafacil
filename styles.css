@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cómo evitar estafas en Yupoo — Importa Fácil</title>
+<meta name="description" content="Señales de alerta reales antes de pagar a un vendedor en Yupoo: qué mirar en el álbum, cómo verificar al agente y qué hacer si algo huele mal.">
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+
+<div class="cargo-stripe"></div>
+
+<header class="site-header">
+  <div class="container">
+    <a href="../index.html" class="logo"><span class="box-icon"></span> Importa Fácil</a>
+    <button class="nav-toggle" aria-label="Abrir menú">☰</button>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="../articulos.html">Guías</a></li>
+        <li><a href="../index.html#rutas">Empezar</a></li>
+        <li><a href="../index.html#quien-escribe">Quién escribe esto</a></li>
+        <li><a href="../contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="page-header">
+  <div class="container">
+    <h1>Cómo evitar estafas en Yupoo</h1>
+  </div>
+</section>
+
+<article class="prose">
+  <p><em>[PLANTILLA — sustituye este texto por tu artículo real. Deja la estructura de H2, así Google entiende mejor el contenido.]</em></p>
+
+  <h2>Por qué Yupoo no es una tienda</h2>
+  <p>Yupoo es solo un álbum de fotos. Explica aquí, con tus propias palabras, por qué eso cambia cómo hay que comprar allí.</p>
+
+  <h2>Señales de alerta antes de pagar</h2>
+  <ul>
+    <li>Ejemplo: el vendedor solo acepta un método de pago no rastreable.</li>
+    <li>Ejemplo: no hay ninguna reseña ni historial verificable.</li>
+    <li>Añade aquí 2-3 señales más basadas en tu experiencia real.</li>
+  </ul>
+
+  <h2>Cómo verifico yo a un agente antes de trabajar con él</h2>
+  <p>Cuenta aquí tu propio proceso paso a paso — esto es lo que da autoridad real al artículo.</p>
+
+  <h2>Qué hacer si ya has pagado y algo va mal</h2>
+  <p>Pasos concretos: contacto con el agente, plataforma de pago, plazos.</p>
+</article>
+
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h4>Importa Fácil</h4>
+        <p style="max-width: 40ch; color: var(--steel);">Guías honestas para importar y revender desde China. Sin cursos milagro, sin estafas.</p>
+      </div>
+      <div>
+        <h4>Navegación</h4>
+        <ul>
+          <li><a href="../articulos.html">Guías</a></li>
+          <li><a href="../contacto.html">Contacto</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Legal</h4>
+        <ul>
+          <li><a href="../aviso-legal.html">Aviso legal</a></li>
+          <li><a href="../privacidad.html">Privacidad</a></li>
+          <li><a href="../cookies.html">Cookies</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Importa Fácil</span>
+      <span>Hecho en España</span>
+    </div>
+  </div>
+</footer>
+
+<script src="../js/main.js"></script>
+</body>
+</html>
